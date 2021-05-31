@@ -1,0 +1,14 @@
+{
+  "name": "k6meetup",
+  "version": "1.0.0",
+  "description": "K6 Meetup Examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "K6"
+  ],
+  "author": "Jerry Osorio",
+  "license": "MIT"
+}
